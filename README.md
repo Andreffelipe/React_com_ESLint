@@ -111,7 +111,7 @@ Este ponto é um dos mais importantes, o próprio ESLint vai sugerir a instalaç
 No caso do yarn.
 
 ```sh
-yarn add -D eslint-plugin-react@^7.20.0 @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint-plugin-import@^2.21.2 eslint-plugin-jsx-a11y@^6.3.0 eslint-plugin-react-hooks@^4 @typescript-eslint/parser@latest
+yarn add -D eslint-plugin-react@^7.20.0 @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint-plugin-import@^2.21.2 eslint-plugin-jsx-a11y@^6.3.0 eslint-plugin-react-hooks@^4 @typescript-eslint/parser@latest prettier eslint-config-prettier eslint-plugin-prettier
 ```
 
 Alterando o arquivo .eslintrc.json
